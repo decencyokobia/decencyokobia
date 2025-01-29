@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @decencyokobia
 - 👀 I’m interested in web / mobile development
-- 🌱 I’m currently learning html/css/JS/dart/flutter. As I try challenges, I will upload them and any suggestions are welcome.
+- 🌱 I’m currently learning html/css/JS. As I try challenges, I will upload them and any suggestions are welcome.
 - 😄 Pronouns: he / him
 
 <!---

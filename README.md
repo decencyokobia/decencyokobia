@@ -1,6 +1,6 @@
-🌱 Solo builder | Full-time dev by day, indie hacker by night
-🛠️ Currently building MemoireeApp — a private journaling & memory tracker
-✍️ Blogging and building at builtbydecency.com
+🌱 Solo builder | Full-time nurse by day, indie dev by night
+🛠️ Built MemoireeApp — a private journaling & memory tracker
+✍️ Blogging at builtbydecency.com
 📚 Learning in public | #100DaysOfCode | Next.js • TypeScript • Node.js
 🤝 Let’s build cool things that matter
 

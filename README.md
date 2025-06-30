@@ -1,8 +1,4 @@
-🌱 Solo builder | Full-time nurse by day, indie dev by night
-🛠️ Built MemoireeApp — a private journaling & memory tracker
-✍️ Blogging at builtbydecency.com
-📚 Learning in public | #100DaysOfCode | Next.js • TypeScript • Node.js
-🤝 Let’s build cool things that matter
+🚀 Founder of IndieHQ.org - Business management platform for freelancers & solo entrepreneurs | 💻 Full-Stack Developer: Next.js • TypeScript • React • Node.js | 🏥 Nurse turned Software Engineer building solutions for indie creators | 💡 Also built MemoireeApp (journaling platform) | 📝 Documenting my indie hacker journey at builtbydecency.com | #IndieHacker #BuildInPublic #HealthTech​​​​​​​​​​​​​​​​
 
 <!---
 decencyokobia/decencyokobia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

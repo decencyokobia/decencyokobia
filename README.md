@@ -1,4 +1,4 @@
-🚀 Building IndieHQ.org - helping UK freelancers ditch spreadsheet chaos
+🚀 Building systems
 🩺 he/him → Nurse → Developer coding between 12-hour shifts
 💻 Next.js • TypeScript • React
 📝 builtbydecency.com | #BuildInPublic
